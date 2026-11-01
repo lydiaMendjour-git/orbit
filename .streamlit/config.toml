@@ -1,0 +1,19 @@
+[theme]
+base = "dark"
+primaryColor = "#A855F7"
+backgroundColor = "#0A0612"
+secondaryBackgroundColor = "#1A1030"
+textColor = "#F3EEFF"
+borderColor = "#3B2366"
+baseFontSize = 17
+baseRadius = "14px"
+font = "Plus Jakarta Sans:https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap"
+headingFont = "Sora:https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700;800&display=swap"
+dataframeHeaderBackgroundColor = "#1E1238"
+chartCategoricalColors = ["#A855F7", "#E879F9", "#C4B5FD", "#7C3AED", "#F0ABFC", "#818CF8"]
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
